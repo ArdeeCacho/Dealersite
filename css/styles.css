@@ -68,21 +68,25 @@ padding-top:200px 100px;
 }
 
  
-.middle-container{
+.middle-container {
   
   background-color: #709fb0;
   background-position: center;
   background-attachment: fixed;
   background-size: 200%;
   text-align: center;
-  padding: 
-
+  padding-top: 30px;
 }
 
+.map{
+  text-align: center;
+  border-radius: 5%;
+
+}
 .bottom-container {
   text-align: center;
   background-color: #709fb0 ;
-  padding: 50px 20px;
+  padding: 50px 20px 39px;
 }
 
 
